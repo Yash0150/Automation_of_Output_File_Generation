@@ -1,0 +1,14 @@
+Mtg Start  ---->CASE SENSITIVE
+End Time   ---->CASE SENSITIVE
+mtg start
+course id
+class pattern
+role
+tot enrl
+course title
+section
+catalog
+class_instructor
+class pattern
+subject
+instructor name
